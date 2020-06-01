@@ -18,6 +18,7 @@ import android.widget.Toast;
 
 
 //checking git commit
+//checking another git commit
 public class MainActivity extends AppCompatActivity {
 
     private TextView timerTextView;
